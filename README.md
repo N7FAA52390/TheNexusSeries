@@ -1,6 +1,6 @@
 # The Nexus Series - A Series of White Papers
 
-<u>**The Deterministic Cycle of Techology Unravels:**</u>
+<u>**The Deterministic Cycle of Technology Unravels:**</u>
 
 **Nexus - 01 Deterministic**: [Determinisim](https://github.com/N7FAA52390/Determinism)  
 **Nexus - 02 Cycle of**: [From Stimulus to Response, and Back Again: The Cycle of Adaptive Progress](https://github.com/N7FAA52390/TheCycleOfObservation)  
