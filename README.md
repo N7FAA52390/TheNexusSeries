@@ -23,7 +23,7 @@ Please avoid linking to the primary repository URL ([https://github.com/N7FAA523
 
 As this is a version-controlled system, all links to previous releases remain accessible, and any changes between releases/updates will be clearly documented.
 
-[Read the CC-BY-SA-4.0 License (Modified: two additional paragraphs at the start)](LICENSE-CC-BY-SA-4.0)  
+[Read the CC-BY-SA-4.0 License (Modified: four additional paragraphs at the start)](LICENSE-CC-BY-SA-4.0)  
 
 [![License: CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
