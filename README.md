@@ -36,3 +36,4 @@ As this is a version-controlled system, all links to previous releases remain ac
 ## Contact
 
 **Axel Gauti Guðmunds Fanneyjar** - [@axelgauti](https://x.com/axelgauti) - axel@axelgauti.is
+
