@@ -2,38 +2,14 @@ Attribution-ShareAlike 4.0 International
 
 =======================================================================
 
-Note from the licensor: As the README for the Git repository this  
-license is applied to states, I waive the requirement for attribution 
-to this work and its creator(s), as outlined in Section 
-3(a)(1)(a)(i) and Section 3(a)(1)(a)(v), as well as any obligations 
-related to them under Sections 3(a)(2) and 3(a)(3).
-
-However, this waiver applies only to this work and its authors. 
-It does not waive the requirement for attribution to any third-party 
-works this work is derived from or references, including those 
-acknowledged in the README, referenced in CFF files, or cited in the 
-body of the work. Such referenced works retain their own licenses and 
-attribution requirements, which must still be honored.
-
-You may attribute the creator(s) of this work using the pseudonym 
-"Aztar", but you are not required to do so. If you choose to provide 
-a reference linking to this work, please follow the instructions 
-provided in the README.
-
-This section is not a standard part of the license text. If it 
-conflicts in any way with the official license text stated below, the
-standard license takes precedence.
-
-=======================================================================
-
-Creative Commons Corporation ("Creative Commons") is not a law firm and  
-does not provide legal services or legal advice. Distribution of  
-Creative Commons public licenses does not create a lawyer-client or  
-other relationship. Creative Commons makes its licenses and related  
-information available on an "as-is" basis. Creative Commons gives no  
-warranties regarding its licenses, any material licensed under their  
-terms and conditions, or any related information. Creative Commons  
-disclaims all liability for damages resulting from their use to the  
+Creative Commons Corporation ("Creative Commons") is not a law firm and
+does not provide legal services or legal advice. Distribution of
+Creative Commons public licenses does not create a lawyer-client or
+other relationship. Creative Commons makes its licenses and related
+information available on an "as-is" basis. Creative Commons gives no
+warranties regarding its licenses, any material licensed under their
+terms and conditions, or any related information. Creative Commons
+disclaims all liability for damages resulting from their use to the
 fullest extent possible.
 
 Using Creative Commons Public Licenses
@@ -57,7 +33,7 @@ exhaustive, and do not form part of our licenses.
      material not subject to the license. This includes other CC-
      licensed material, or material used under an exception or
      limitation to copyright. More considerations for licensors:
-	wiki.creativecommons.org/Considerations_for_licensors
+    wiki.creativecommons.org/Considerations_for_licensors
 
      Considerations for the public: By using one of our public
      licenses, a licensor grants the public permission to use the
@@ -72,9 +48,9 @@ exhaustive, and do not form part of our licenses.
      rights in the material. A licensor may make special requests,
      such as asking that all changes be marked or described.
      Although not required by our licenses, you are encouraged to
-     respect those requests where reasonable. More_considerations
+     respect those requests where reasonable. More considerations
      for the public:
-	wiki.creativecommons.org/Considerations_for_licensees
+    wiki.creativecommons.org/Considerations_for_licensees
 
 =======================================================================
 
@@ -327,8 +303,8 @@ apply to Your use of the Licensed Material:
      contents in a database in which You have Sui Generis Database
      Rights, then the database in which You have Sui Generis Database
      Rights (but not its individual contents) is Adapted Material,
-
      including for purposes of Section 3(b); and
+
   c. You must comply with the conditions in Section 3(a) if You Share
      all or a substantial portion of the contents of the database.
 
